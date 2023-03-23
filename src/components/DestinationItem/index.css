@@ -1,0 +1,17 @@
+.card {
+  padding: 18px;
+  height: 200px;
+  width: 400px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  border-radius: 12px;
+  margin-bottom: 8px;
+}
+.para {
+  text-align: left;
+  font-size: 25px;
+  color: #0f172a;
+  font-weight: 700;
+}

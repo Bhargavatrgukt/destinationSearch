@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  color: blueviolet;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 12px;
+  list-style-type: none;
+}
+.search {
+  text-align: center;
+  align-self: center;
+  width: 260px;
+  border: 1px solid #555;
+  display: block;
+  padding: 9px 4px 9px 40px;
+}
